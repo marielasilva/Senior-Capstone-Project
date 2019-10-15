@@ -1,0 +1,2 @@
+# Senior-Capstone-Project
+My senior capstone focused on analyzing the effects of Instagram fitness pages on perceived body image in college students. The analysis also surveyed 84 college students and conducted a focus group of 5 college students. Results showed that gender played a significant influence on use of Instagram pages for fitness advice and a stronger correlation between Instagram usage frequency and perceptions of body ideals.
